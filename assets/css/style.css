@@ -1,0 +1,23 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css");
+header .menu {
+  max-width: 50%; }
+  header .menu .itens {
+    font-size: 0.8rem; }
+  header .menu img {
+    border-radius: 10%; }
+
+main {
+  max-width: 50%;
+  margin: 0 auto; }
+  main .formulario {
+    margin-top: 5rem; }
+    main .formulario .inputs {
+      padding: 1rem; }
+  main .inscrever {
+    margin-left: 45%;
+    margin-top: 8%; }
+
+.table {
+  margin-top: 5rem; }
+
+/*# sourceMappingURL=style.css.map */
